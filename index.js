@@ -170,3 +170,5 @@
 // const filteredEmployees = filterBySalary(employees, 22000, 25)
 // console.log(filteredEmployees)
 // Output: [{name: "Joice", age: 30, salary: 35000}, {name: "Jeena", age: 40, salary: 50000}]
+
+// set one ends
